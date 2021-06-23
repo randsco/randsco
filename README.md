@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I discovered this secret! That's all for now folks, I gotta get back to playing Animal Crossing New Leaf on my Nintendo:registered: 3DS.
 
 <!--
 **randsco/randsco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
