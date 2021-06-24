@@ -1,6 +1,6 @@
 # Welcome to my Github
 
-<img src="https://github.com/randsco/randsco/blob/main/alora-griffiths-OI-CLykd27Y-unsplash.jpg" align="left" width=200px/>
+<img src="https://github.com/randsco/randsco/blob/main/alora-griffiths-OI-CLykd27Y-unsplash.jpg" align="left" width=150px/>
 
 ### I'm currently working on:
 
