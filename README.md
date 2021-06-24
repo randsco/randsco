@@ -1,5 +1,7 @@
 # Welcome to my Github
 
+<img src="https://github.com/randsco/randsco/blob/main/alora-griffiths-OI-CLykd27Y-unsplash.jpg" align="left" width=200px/>
+
 ### I'm currently working on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Greenie-Beenie&repo=Buy-Green-Website)](https://github.com/Greenie-Beenie/Buy-Green-Website)
