@@ -8,9 +8,9 @@
 
 ### Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randsco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randsco&layout=compact)](https://www.youtube.com/watch?v=YddwkMJG1Jo)
 
-Photograph by <a href=https://github.com/Leila-U>Leila Denise Uy</a>
+Photograph by <a href=https://github.com/Leila-U>Leila Denise Uy</a> 📷
 
 GitHub stats powered by <a href=https://github.com/Leila-U>GitHub Readme Stats</a> ✨
 
