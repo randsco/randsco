@@ -1,17 +1,13 @@
-### Hi there 👋 I discovered this secret!
-That's all for now folks, I gotta get back to playing Animal Crossing New Leaf on my Nintendo:registered: 3DS.
+# Welcome to my Github
 
-<!--
-**randsco/randsco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm up to:
 
-Here are some ideas to get you started:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Greenie-Beenie&repo=Buy-Green-Website)](https://github.com/Greenie-Beenie/Buy-Green-Website)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randsco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+✨ Github stats powered by https://github.com/anuraghazra/github-readme-stats ✨
+
+OK, that's all the time I've got. I gotta get back to playing Animal Crossing New Leaf on my Nintendo 3DS®️.
