@@ -1,10 +1,10 @@
 # Welcome to my Github
 
-### What I'm up to:
+### I'm currently working on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Greenie-Beenie&repo=Buy-Green-Website)](https://github.com/Greenie-Beenie/Buy-Green-Website)
 
-### Stats
+### Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randsco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
