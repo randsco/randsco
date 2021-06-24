@@ -1,6 +1,6 @@
-# Welcome to my Github
+# Welcome to my GitHub
 
-<img src="https://github.com/randsco/randsco/blob/main/alora-griffiths-OI-CLykd27Y-unsplash.jpg" align="left" width=150px/>
+<img src="https://github.com/randsco/randsco/blob/main/station.png" align="left" width=170px/>
 
 ### I'm currently working on:
 
@@ -10,6 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randsco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-✨ Github stats powered by https://github.com/anuraghazra/github-readme-stats ✨
+Photograph by <a href=https://github.com/Leila-U>Leila Denise Uy</a>
 
-OK, that's all the time I've got. I gotta get back to playing Animal Crossing New Leaf on my Nintendo 3DS®️.
+GitHub stats powered by <a href=https://github.com/Leila-U>GitHub Readme Stats</a> ✨
+
+Okay, that's all the time I've got. I gotta get back to playing Animal Crossing New Leaf on my Nintendo 3DS®️.
