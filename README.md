@@ -15,3 +15,8 @@ Photograph by <a href=https://github.com/Leila-U>Leila Denise Uy</a> 📷
 GitHub stats powered by <a href=https://github.com/Leila-U>GitHub Readme Stats</a> ✨
 
 Okay, that's all the time I've got. I gotta get back to playing Animal Crossing New Leaf on my Nintendo 3DS®️.
+
+<details> 
+  <summary>What is the most pirated software in the world?</summary>
+   ARRRRStudio 🏴‍☠️
+</details>
