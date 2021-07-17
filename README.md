@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
-<img src="https://github.com/randsco/randsco/blob/main/station.png" align="left" width=170px/>
+<img src="https://github.com/randsco/randsco/blob/main/station.png" align="left" width=190px/>
 
 ### I'm currently working on:
 
@@ -18,5 +18,5 @@ Okay, that's all the time I've got. I gotta get back to playing Animal Crossing 
 
 <details> 
   <summary>What is the most pirated software in the world?</summary>
-   ARRRRStudio 🏴‍☠️
+   ArrrrrrrcGIS Pro 🏴‍☠️
 </details>
