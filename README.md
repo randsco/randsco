@@ -12,7 +12,7 @@
 
 Photograph by <a href=https://github.com/Leila-U>Leila Denise Uy</a> 📷
 
-GitHub stats powered by <a href=https://github.com/Leila-U>GitHub Readme Stats</a> ✨
+GitHub stats powered by <a href=https://github.com/anuraghazra/github-readme-stats>GitHub Readme Stats</a> ✨
 
 Okay, that's all the time I've got. I gotta get back to playing Animal Crossing New Leaf on my Nintendo 3DS®️.
 
